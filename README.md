@@ -78,6 +78,12 @@ I also worked on execution logic and risk controls, including:
 - Limiting trade sizes to avoid unstable behavior near position limits.
 - Studying round-by-round performance to understand how drawdowns, overfitting, and execution choices affected leaderboard outcomes.
 
+## Artifact Status
+
+This repository preserves the competition-time code developed across Rounds 1-5 of IMC Prosperity 4. Some scripts may require minor path or dependency adjustments before running locally.
+
+The main value of this repository is the round-by-round strategy development and implementation process behind our submissions.
+
 ## Acknowledgments and Reflections
 
 This was my first year participating in IMC Prosperity, and it was one of the most valuable technical quantitative trading projects I have worked on so far. The competition challenged me to learn quickly, iterate under pressure, and improve our strategies across each round under real-time constraints.
