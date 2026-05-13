@@ -80,9 +80,9 @@ I also worked on execution logic and risk controls, including:
 
 ## Artifact Status
 
-This repository preserves the competition-time code developed across Rounds 1-5 of IMC Prosperity 4. Some scripts may require minor path or dependency adjustments before running locally.
+This repository preserves the competition-time code developed across Rounds 1-5 of IMC Prosperity 4. The code reflects the fast-paced nature of the competition, so some scripts may require minor cleanup, path changes, or dependency adjustments before running locally.
 
-The main value of this repository is the round-by-round strategy development and implementation process behind our submissions.
+The main value of this repository is the round-by-round strategy development, trading logic, and implementation process behind our submissions.
 
 ## Acknowledgments and Reflections
 
