@@ -1,7 +1,7 @@
 # IMC Prosperity 4
-This repository contains research and algorithms for the ZBTraders team in IMC Prosperity 4 (2026). Our team is composed of five students from Northwestern University deeply interested in the intersection of Mathematics, Computer Science, and Trading. 
+This repository contains research and algorithms for the ZBTraders team in IMC Prosperity 4 (2026). Our team is composed of five students from Northwestern University interested in the intersection of Mathematics, Computer Science, and Trading. 
  
-# The Team:
+## The Team:
 
 **Wilson Trindade** ('28) | CS + Econ | [Linkedin](https://linkedin.com/in/wilsonftrindade/) | WilsonFerreiraTrindadeNeto2028@u.northwestern.edu  
 **Francesco Boccuzzi** ('28) | Math + CS | [Linkedin](https://linkedin.com/in/francesco-ma-boccuzzi/) | FrancescoBoccuzzi2028@u.northwestern.edu  
@@ -45,8 +45,10 @@ The competition included 30,703 competing participants across 18,803 teams from 
 
 I primarily worked on the algorithmic trading side of the competition from Rounds 1-4, focusing on strategy research, implementation, backtesting, and parameter tuning.
 
-My strongest contribution came in Round 3, where I led the algorithmic strategy development. That submission ranked #153 globally on the algorithmic leaderboard and helped the team reach #146 overall. I also worked heavily on Round 4, refining our strategies around the newly introduced counterparty-level trading data.
+My strongest contribution came in Round 3, where I built the core algorithmic submission, including the main trading logic, product-level analysis, backtesting iterations, and final parameter choices. That submission ranked #153 globally on the algorithmic leaderboard and helped the team reach #146 overall.
 
+I also worked heavily on Round 4, refining our strategies around the newly introduced counterparty-level trading data. 
+ 
 ### Strategy Development
 
 I developed and iterated on multiple classes of trading strategies, including:
@@ -76,16 +78,12 @@ I also worked on execution logic and risk controls, including:
 - Limiting trade sizes to avoid unstable behavior near position limits.
 - Studying round-by-round performance to understand how drawdowns, overfitting, and execution choices affected leaderboard outcomes.
 
-### Round 3 Ownership
-
-In Round 3, I built the core algorithmic submission, including the main trading logic, product-level analysis, backtesting iterations, and final parameter choices. This was our best-performing algorithmic round, ranking #153 globally and contributing to our peak overall rank of #146.
-
 ## Acknowledgments and Reflections
 
 This was my first year participating in IMC Prosperity, and it was one of the most valuable technical quantitative trading projects I have worked on so far. The competition challenged me to learn quickly, iterate under pressure, and improve our strategies across each round under real-time constraints.
 
 Huge thank you to my teammates, Francesco, Adi, Matias, and Tal, for everything they contributed throughout the competition. IMC Prosperity is very much a team competition, and it was really valuable to have a group I could rely on across both the algorithmic and manual challenges.
 
-I also want to credit the open-source [Prosperity backtester](https://github.com/kevin-fu1/imc-prosperity-4-backtester.git) by [@github-username](https://github.com/kevin-fu1), which helped us test and iterate more effectively.
+I also want to credit the open-source [Prosperity backtester](https://github.com/kevin-fu1/imc-prosperity-4-backtester.git) by [@kevin-fu1](https://github.com/kevin-fu1), which helped us test and iterate more effectively.
 
-After learning a lot from this first attempt, I am really excited to come back stronger for IMC Prosperity 5!
+After learning a lot from this first attempt, I am excited to come back stronger for IMC Prosperity 5!
